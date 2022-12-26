@@ -1,4 +1,4 @@
-### Hi there 👋
+### CHOI-SeungHyun 👋
 
 <!--
 **cshyun7097/cshyun7097** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
